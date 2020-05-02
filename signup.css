@@ -1,0 +1,15 @@
+h1{
+    font-size: 40px;
+    font-style: oblique;
+}
+label{
+    font-size: 20px;
+}
+body{
+    color: azure; 
+    background-image: url();
+    background-size:cover;
+}
+button{
+    font-size: 20px;
+}
